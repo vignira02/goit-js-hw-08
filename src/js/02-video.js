@@ -19,7 +19,6 @@ if (savedTime) {
 }
 
 
-// Задаємо стилі для елемента відео
 video.style.position = 'absolute';
 video.style.top = '35%';
 video.style.left = '50%';
